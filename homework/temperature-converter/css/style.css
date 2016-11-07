@@ -1,0 +1,11 @@
+.background{
+	text-align: center;
+	background-color:grey;
+}
+#title{
+	font-style: italic;
+	color: purple;
+	border-style:solid;
+	border-color:blue;	
+
+}
